@@ -1,0 +1,13 @@
+.venv/
+.idea
+__pycache__/
+media/
+migrations/
+
+*.sqlite3
+*.db
+*.dump.rdb
+
+.env
+
+task.md
